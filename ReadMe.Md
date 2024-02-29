@@ -1,14 +1,10 @@
 # Image Processing Project with OpenCV in C++
-### Anisha Kumari Kushwaha
-### Sarthak Kagliwal
+
 
 ## Overview
 
 This C++ project utilizes the OpenCV library for image processing, implemented in Visual Studio. The program provides a real-time video processing experience with various filters and effects. Users can interact with the application using specific keypresses to switch between different image processing modes and functionalities.
 
-### OS and IDE
-- **Anisha Kumari Kushwaha:** Ubuntu 22.04 and Visual Studio Code
-- **Sarthak Kagliwal:** macOS and Visual Studio Code
 
 ## Key Features
 
@@ -43,8 +39,3 @@ This C++ project utilizes the OpenCV library for image processing, implemented i
 - Build and run the project.
 - Use the specified keys mentioned above to interact with the application and explore various image processing effects.
 
-## Notes
-
-- Make sure to have the OpenCV library properly configured in your development environment.
-- The project utilizes a cascade classifier (provided for this task) for face detection, and the cascade file path is defined as `FACE_CASCADE_FILE`.
-- [Recording Link](https://drive.google.com/drive/folders/1pMjAsLgHYIlJt-w-nSaX6fvjN6-qK5XU?usp=sharing)
